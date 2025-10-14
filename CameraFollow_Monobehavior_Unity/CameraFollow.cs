@@ -1,4 +1,8 @@
-﻿using UnityEngine;
+﻿// MUST BE USED IN UNITY
+// Attach script on camera, use with CharacterController for a 3rd person controller
+// MW 10/25
+
+using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {

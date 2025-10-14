@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36518.9 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraFollow_Monobehavior_Unity", "CameraFollow_Monobehavior_Unity\CameraFollow_Monobehavior_Unity.csproj", "{BF608446-B461-42E3-8C4E-0261F018DEE4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraFollow", "CameraFollow_Monobehavior_Unity\CameraFollow.csproj", "{BF608446-B461-42E3-8C4E-0261F018DEE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterController", "CharacterController\CharacterController.csproj", "{E2F7FD51-30D0-4CC9-AB43-5D5C9830C156}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BF608446-B461-42E3-8C4E-0261F018DEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF608446-B461-42E3-8C4E-0261F018DEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF608446-B461-42E3-8C4E-0261F018DEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2F7FD51-30D0-4CC9-AB43-5D5C9830C156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F7FD51-30D0-4CC9-AB43-5D5C9830C156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F7FD51-30D0-4CC9-AB43-5D5C9830C156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F7FD51-30D0-4CC9-AB43-5D5C9830C156}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
