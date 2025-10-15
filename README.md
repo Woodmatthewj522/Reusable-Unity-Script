@@ -1,7 +1,6 @@
 # Reusable Monobehavior Scripts for Unity ONLY
 *Use both for a working third person controller*
-# CharacterFollow Not in use, FollowCamera/CharacterController are
-#
+
 # How-To-Use
 1. Create a folder, name it scripts (If you don't have one already)
 2. Right click new "Scripts" folder, Create new monobehavior Script (for both! x2)
